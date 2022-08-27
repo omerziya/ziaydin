@@ -1,11 +1,16 @@
-### Hi Zia's Stalker! 
+# **Hi Zia's Stalker!** 
 
+ ```diff
 
+@@ I'm Ömer, 23 years old and I'm Electrical Electronic Engineer. @@                                 
 
-I'm Ömer, 23 years old and I'm Electrical Electronic Engineer.                                    
+- I have an interest in embedded systems and love to coding for PCBs which I design!
 
+- Make yourself at home!
 
-I have an interest in embedded systems and love to coding for PCBs which I design!
+- Stay tuned for new codes!
+  
+  ```
+![](https://github.com/ziaydin/ziaydin/blob/main/programming.gif)
 
- Make yourself at home!
-                          ![](https://github.com/ziaydin/ziaydin/blob/main/programming.gif)
+          
