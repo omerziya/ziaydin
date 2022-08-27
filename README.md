@@ -6,4 +6,3 @@ I have an interest in embedded systems and love to coding for PCBs which I desig
 
  Make yourself at home!
 
-![](https://github.com/ziaydin/ziaydin/blob/main/coding.gif)
