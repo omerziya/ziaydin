@@ -11,8 +11,7 @@
 - Stay tuned for new codes!
   
   ```
-  ![](https://github.com/ziaydin/ziaydin/blob/main/giphy.webp) ![](https://github.com/ziaydin/ziaydin/blob/main/programming.gif)
-  
+  ![](https://github.com/ziaydin/ziaydin/blob/main/zia.webp) 
   
   
   
