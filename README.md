@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Zia's Stalker! 
 
 I'm Ömer, 23 years old and I'm Electrical Electronic Engineer.
 
